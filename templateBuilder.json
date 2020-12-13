@@ -1,0 +1,38 @@
+[
+    {
+        "blogName": "page1",
+        "blogBody": [
+            {
+                "header": "My first blog post",
+                "content": "this is probably my first and only blog post!! So enjoy it while it last"
+            }
+        ]
+    },
+    {
+        "blogName": "page2",
+        "blogBody": [
+            {
+                "header": "My Second blog post",
+                "content": "Well I wrote a second one"
+            }
+        ]
+    },
+    {
+        "blogName": "page3",
+        "blogBody": [
+            {
+                "header": "My third blog post",
+                "content": "And a third"
+            }
+        ]
+    },
+    {
+        "blogName": "page4",
+        "blogBody": [
+            {
+                "header": "My last blog post",
+                "content": "then I stopped"
+            }
+        ]
+    }          
+]
