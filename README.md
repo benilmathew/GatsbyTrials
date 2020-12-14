@@ -8,7 +8,7 @@
 
     ```shell
     # create a new Gatsby site using the default starter
-    gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+    gatsby new my-json-site https://github.com/gatsbyjs/gatsby-starter-default
     ```
 
 1.  **Create a JSON file with the content to render.**
